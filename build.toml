@@ -1,0 +1,4 @@
+[src]
+source_dir = "./src"
+output_dir = "./bin"
+include_dirs = []
