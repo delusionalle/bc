@@ -1,3 +1,5 @@
+# ON HOLD because I don't like writing code for mac os.
+
 ## bc is an extremely simple opinionated c/c++ build system
 
 the end goal is that i can build this project using itself
